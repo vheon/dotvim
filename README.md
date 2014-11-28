@@ -1,7 +1,3 @@
-Installation:
+# Deprecated
 
-    git clone git://github.com/vheon/dotvim.git ~/.vim
-
-Install Plugins
-
-    vim +PlugInstall +qall
+I don't use this repo anymore. I rebased all the history of this repo in [home](/vheon/home) and started versioning the home directory.
